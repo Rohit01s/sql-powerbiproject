@@ -7,3 +7,5 @@ You were given this data on February 5, 2016, a Friday, and you've been granted 
 With Monday afternoon as your deadline, you're tasked with not only extracting these crucial insights but also making a compelling and informative dashboard with business insights and business proposals using Power BI. Your insights will be the compass that guides the company's success this year.
 
 As Friday dawns, you are poised to embark on this project, and your destination is Monday's meeting, where you'll unveil the roadmap for the company's strategic plan for the year 2016.
+
+
